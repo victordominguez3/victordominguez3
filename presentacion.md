@@ -12,7 +12,9 @@ Programar me brinda la oportunidad de desarrollar mis ideas como un proyecto per
 
 ```
 fun main() {
-    Soy una persona muy persistente y cuando algo me da error no paro hasta poder solucionarlo, por eso la programación y yo tendremos muchos enfrentamientos pero al final estaremos muchas horas juntos, a si que intentaré bailar al compás del código.
+    Soy una persona muy persistente y cuando algo me da error no paro hasta poder solucionarlo,
+    por eso la programación y yo tendremos muchos enfrentamientos pero al final estaremos muchas horas juntos,
+    a si que intentaré bailar al compás del código.
     }
 ```
 
