@@ -25,5 +25,5 @@ Disfruto mucho una tarde en buena compañía, jugando videojuegos o viendo algun
 ## `Octogato`
 
 <img src="octocat-1666036200649.png" width="200" height="200" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kotlin_logo.svg/2560px-Kotlin_logo.svg.png" width="400" height="100
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Kotlin_logo.svg/2560px-Kotlin_logo.svg.png" width="360" height="90
 " />
