@@ -10,14 +10,6 @@ Estoy estudiando un grado superior de **Desarrollo de aplicaciones multiplatafor
 
 Programar me brinda la oportunidad de desarrollar mis ideas como un proyecto personal en mi día a día. Soy una persona que se ha criado con videojuegos y siempre me ha atraído la atención todo lo que podría haber detrás. Además tengo algunos proyectos en proceso que iré desarrollando a medida que vaya ampliando mis conocmientos.
 
-```
-fun main() {
-    Soy una persona muy persistente y cuando algo me da error no paro hasta poder solucionarlo,
-    por eso la programación y yo tendremos muchos enfrentamientos pero al final estaremos muchas horas juntos,
-    a si que intentaré bailar al compás del código.
-    }
-```
-
 Disfruto mucho una tarde en buena compañía, jugando videojuegos o viendo alguna serie o simplemente charlando.
 
 ---
